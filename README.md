@@ -38,7 +38,7 @@ How to play:
 
 **Gray Missiles (regular missiles)**
 
-   Spawns from both red and green ships and only goes straight down the spawn rate for the missiles is 1-1.2 seconds
+    Spawns from both red and green ships and only goes straight down the spawn rate for the missiles is 1-1.2 seconds
 
 
 **How to Install:**

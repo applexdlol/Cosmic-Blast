@@ -54,3 +54,12 @@ run this command in terimal `pip install pygame`
 
 Step 4:
 You finished you can now play the game just press play!
+
+
+How it looks:
+
+Start Menu:
+<img width="932" alt="image" src="https://github.com/applexdlol/Cosmic-Blast/assets/88859575/59d8c21b-66a7-4fe3-8bc3-841ac65df58b">
+
+Gameplay:
+<img width="934" alt="image" src="https://github.com/applexdlol/Cosmic-Blast/assets/88859575/3b830065-7cc9-468c-b015-048380f67fd5">
